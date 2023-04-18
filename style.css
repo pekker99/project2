@@ -1,0 +1,32 @@
+body{
+    height: 100vh;
+    background: rgb(15, 243, 167);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+
+h1{
+    font-size: 60px;
+}
+
+
+.btn{
+    border-radius: 5px;
+    border: 2px solid black;
+    padding: 10px;
+    font-size: 20px;
+
+}
+
+#ertek{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.btn:hover{
+    background-color: rgb(185, 194, 194);
+}
